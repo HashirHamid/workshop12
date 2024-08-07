@@ -1,2 +1,3 @@
 Hello world!
 Lorem lipsum
+third line added
